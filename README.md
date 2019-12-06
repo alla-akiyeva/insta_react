@@ -1,5 +1,13 @@
 ## Creating a simplified Instagram imitation with React. This is a work in progress. 
 
+I follow a tutorial by Glo Academy for this project. 
+
+In order to run the app locally after cloning the repo, make sure to start a json server. Install json-server globally: `npm install -g json-server`.
+
+Before typing in `npm start` to run the react app, open a new tab in terminal in the same folder. Use `json-server src/posts.json` to run the json file that contains dummy user data used to populate the feed. After the server is started, go back to the first terminal tab/node and run `npm start`. 
+
+_________________________________________________________________________________________
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
